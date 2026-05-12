@@ -1,43 +1,30 @@
 Hi, I'm Tatiana Alves Cattaneo 👋
-Back-end Developer | Computer Science Enthusiast | E-commerce Systems
+Software Developer | Computer Science Enthusiast | E-commerce Systems
 
-I am a software development professional in transition, driven by a deep curiosity about how systems work from the hardware up to the application layer. My focus is on building efficient, scalable back-end solutions, with a particular interest in the logic and architecture that power modern e-commerce environments.
+I am a developer driven by a fascination with how software interacts with hardware. Currently transitioning into the tech industry, I focus on building the robust back-end logic that powers digital commerce. I enjoy deconstructing complex systems to understand how memory, architecture, and algorithms come together to create high-performance applications.
 
-🚀 About Me
-🎓 Foundations: Currently completing Harvard’s CS50, focusing on memory management, algorithms, and data structures.
+🚀 My Journey
+Foundations: Currently mastering the fundamentals of memory management, data structures, and algorithms through Harvard’s CS50.
 
-🛠️ Core Stack: Deep-diving into Python and SQL to build robust server-side logic and relational databases.
+The Back-end Focus: Developing clean, efficient server-side logic using Python and SQL.
 
-🏗️ Systems Thinking: Passionate about Computer Architecture—understanding how hardware constraints and low-level optimization can improve high-level software performance.
+Systems & Architecture: Deeply interested in computer organization and how low-level hardware constraints influence high-level software efficiency.
 
-🛒 E-commerce Interest: Exploring how Computer Science principles can optimize digital marketplaces, from inventory management to checkout flows.
+E-commerce Logic: Exploring the intersection of Computer Science and digital marketplaces—focusing on inventory systems, transaction integrity, and scalable architecture.
 
-💬 Language: Improving technical English for documentation, global collaboration, and reading complex specifications.
+Communication: Actively refining my technical English to engage with global documentation and developer communities.
 
-🛠 Tech Stack & Learning Path
-Computer Science: Algorithms, Data Structures, and Memory Management.
+🛠 Technical Toolkit
+Languages: Python (Flask/Django), SQL (PostgreSQL, SQLite), C (for CS fundamentals).
 
-Languages & Tools: Python (Flask/Django), SQL (PostgreSQL, SQLite), and Git for version control.
+Computer Science: Data Structures, Algorithms, Memory Allocation, and Resource Optimization.
 
-Systems & Architecture: Digital Logic, Computer Organization, and OS fundamentals.
+Systems: Computer Architecture, Digital Logic, and Operating System basics.
 
-E-commerce Logic: Database modeling for products, transaction integrity, and API integration.
+Tools & Workflow: Git/GitHub for version control and collaborative development.
 
-📫 Get in Touch
+
+📫 Connect with Me
 LinkedIn: [linkedin.com/in/tatiana-alves-cattaneo](https://www.linkedin.com/in/tatiana-alves-cattaneo-66258b19b/)
 
 Email: eutatie@gmail.com
-<!--
-**eutatie/eutatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
