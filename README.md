@@ -27,6 +27,6 @@ Ferramentas e Workflow: Git/GitHub para controle de versão e desenvolvimento co
 
 📫 Conecte-se Comigo
 
-LinkedIn: linkedin.com/in/tatiana-alves-cattaneo
+LinkedIn: [linkedin.com/in/tatiana-alves-cattaneo](https://www.linkedin.com/in/tatiana-alves-cattaneo-66258b19b)
 
 Email: eutatie@gmail.com
