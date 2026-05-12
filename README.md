@@ -1,30 +1,32 @@
-Hi, I'm Tatiana Alves Cattaneo 👋
-Software Developer | Computer Science Enthusiast | E-commerce Systems
+Olá, eu sou Tatiana Alves Cattaneo 👋
+Desenvolvedora de Software | Entusiasta de Ciência da Computação | Sistemas de E-commerce
 
-I am a developer driven by a fascination with how software interacts with hardware. Currently transitioning into the tech industry, I focus on building the robust back-end logic that powers digital commerce. I enjoy deconstructing complex systems to understand how memory, architecture, and algorithms come together to create high-performance applications.
+Sou uma desenvolvedora movida pela fascinação de como o software interage com o hardware. Atualmente em transição para a área de tecnologia, foco na construção de lógicas de back-end robustas que sustentam o comércio digital. Gosto de desconstruir sistemas complexos para entender como memória, arquitetura e algoritmos se unem para criar aplicações de alta performance.
 
-🚀 My Journey
-Foundations: Currently mastering the fundamentals of memory management, data structures, and algorithms through Harvard’s CS50.
+🚀 Minha Jornada
 
-The Back-end Focus: Developing clean, efficient server-side logic using Python and SQL.
+Fundamentos: Atualmente consolidando conhecimentos em gerenciamento de memória, estruturas de dados e algoritmos através do CS50 de Harvard.
 
-Systems & Architecture: Deeply interested in computer organization and how low-level hardware constraints influence high-level software efficiency.
+Foco em Back-end: Desenvolvendo lógica de servidor limpa e eficiente utilizando Python e SQL.
 
-E-commerce Logic: Exploring the intersection of Computer Science and digital marketplaces—focusing on inventory systems, transaction integrity, and scalable architecture.
+Sistemas e Arquitetura: Profundo interesse em organização de computadores e em como as restrições de hardware de baixo nível influenciam a eficiência do software de alto nível.
 
-Communication: Actively refining my technical English to engage with global documentation and developer communities.
+Lógica de E-commerce: Explorando a interseção entre Ciência da Computação e marketplaces digitais — com foco em sistemas de inventário, integridade de transações e arquitetura escalável.
 
-🛠 Technical Toolkit
-Languages: Python (Flask/Django), SQL (PostgreSQL, SQLite), C (for CS fundamentals).
+Comunicação: Refinando ativamente meu inglês técnico para colaborar com documentações globais e comunidades de desenvolvedores.
 
-Computer Science: Data Structures, Algorithms, Memory Allocation, and Resource Optimization.
+🛠 Toolkit Técnico
 
-Systems: Computer Architecture, Digital Logic, and Operating System basics.
+Linguagens: Python (Flask/Django), SQL (PostgreSQL, SQLite), C (para fundamentos de CS).
 
-Tools & Workflow: Git/GitHub for version control and collaborative development.
+Ciência da Computação: Estruturas de Dados, Algoritmos, Alocação de Memória e Otimização de Recursos.
 
+Sistemas: Arquitetura de Computadores, Lógica Digital e conceitos básicos de Sistemas Operacionais.
 
-📫 Connect with Me
-LinkedIn: [linkedin.com/in/tatiana-alves-cattaneo](https://www.linkedin.com/in/tatiana-alves-cattaneo-66258b19b/)
+Ferramentas e Workflow: Git/GitHub para controle de versão e desenvolvimento colaborativo.
+
+📫 Conecte-se Comigo
+
+LinkedIn: linkedin.com/in/tatiana-alves-cattaneo
 
 Email: eutatie@gmail.com
