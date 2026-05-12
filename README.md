@@ -1,36 +1,32 @@
-# Olá, eu sou Tatiana Alves Cattaneo 👋
+Hi, I'm Tatiana Alves Cattaneo 👋
+Back-end Developer | Computer Science Enthusiast | E-commerce Systems
 
-### Desenvolvedora Back-end | Foco em Engenharia & Análise de Dados
+I am a software development professional in transition, driven by a deep curiosity about how systems work from the hardware up to the application layer. My focus is on building efficient, scalable back-end solutions, with a particular interest in the logic and architecture that power modern e-commerce environments.
 
-Sou uma entusiasta de tecnologia em transição de carreira, focada em entender como os dados são estruturados, processados e transformados em inteligência. Tenho forte interesse em arquitetura de computadores e no funcionamento interno dos sistemas.
+🚀 About Me
+🎓 Foundations: Currently completing Harvard’s CS50, focusing on memory management, algorithms, and data structures.
 
----
+🛠️ Core Stack: Deep-diving into Python and SQL to build robust server-side logic and relational databases.
 
-### 🚀 Sobre Mim
-- 🎓 Cursando o **CS50's Introduction to Computer Science (Harvard)**.
-- 🛠️ Estudando profundamente a stack de dados: **Python** e **SQL**.
-- 🏗️ Interessada em **Arquitetura de Computação** e como o hardware otimiza o software.
-- 💬 Aprimorando o **Inglês** para leitura técnica e documentação.
+🏗️ Systems Thinking: Passionate about Computer Architecture—understanding how hardware constraints and low-level optimization can improve high-level software performance.
 
----
+🛒 E-commerce Interest: Exploring how Computer Science principles can optimize digital marketplaces, from inventory management to checkout flows.
 
-### 🛠 Tecnologias e Ferramentas em Foco
-- **Ciência da Computação:** Algoritmos, Estruturas de Dados e Gerenciamento de Memória (via CS50).
-- **Linguagens:** Python (Pandas, Numpy), SQL (PostgreSQL, SQLite).
-- **Dados:** Modelagem de bancos de dados, ETL e Análise Exploratória.
-- **Arquitetura:** Lógica digital, organização de computadores e sistemas operacionais.
+💬 Language: Improving technical English for documentation, global collaboration, and reading complex specifications.
 
----
+🛠 Tech Stack & Learning Path
+Computer Science: Algorithms, Data Structures, and Memory Management.
 
-### 📊 Estatísticas e Atividade
-![Estatísticas de eutatie](https://github-readme-stats.vercel.app/api?username=eutatie&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eutatie&layout=compact&theme=dark)
+Languages & Tools: Python (Flask/Django), SQL (PostgreSQL, SQLite), and Git for version control.
 
----
+Systems & Architecture: Digital Logic, Computer Organization, and OS fundamentals.
 
-### 📫 Contato
-- **LinkedIn:** [linkedin.com/in/tatiana-alves-cattaneo](https://www.linkedin.com/in/tatiana-alves-cattaneo-66258b19b/)
-- **Email:** [eutatie@gmail.com](mailto:eutatie@gmail.com)
+E-commerce Logic: Database modeling for products, transaction integrity, and API integration.
+
+📫 Get in Touch
+LinkedIn: [linkedin.com/in/tatiana-alves-cattaneo](https://www.linkedin.com/in/tatiana-alves-cattaneo-66258b19b/)
+
+Email: eutatie@gmail.com
 <!--
 **eutatie/eutatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
