@@ -1,32 +1,29 @@
-Olá, eu sou Tatiana Alves Cattaneo 👋
-Desenvolvedora de Software | Entusiasta de Ciência da Computação | Sistemas de E-commerce
+# Tatiana Alves Cattaneo
 
-Sou uma desenvolvedora movida pela fascinação de como o software interage com o hardware. Atualmente em transição para a área de tecnologia, foco na construção de lógicas de back-end robustas que sustentam o comércio digital. Gosto de desconstruir sistemas complexos para entender como memória, arquitetura e algoritmos se unem para criar aplicações de alta performance.
+Software developer focused on Computer Science fundamentals, backend logic, and commerce systems.
 
-🚀 Minha Jornada
+I’m particularly interested in how software behavior emerges from low-level computational constraints, memory organization, and logical system design. My current studies are centered around data structures, algorithms, and the architectural decisions that shape efficient software systems.
 
-Fundamentos: Atualmente consolidando conhecimentos em gerenciamento de memória, estruturas de dados e algoritmos através do CS50 de Harvard.
+My technical interests are strongly connected to digital commerce infrastructure — especially inventory consistency, transaction integrity, backend workflows, and scalable marketplace logic. This interest is also influenced by practical experience within e-commerce environments, which deepened my curiosity about how commercial systems operate behind the interface.
 
-Foco em Back-end: Desenvolvendo lógica de servidor limpa e eficiente utilizando Python e SQL.
+Currently studying:
 
-Sistemas e Arquitetura: Profundo interesse em organização de computadores e em como as restrições de hardware de baixo nível influenciam a eficiência do software de alto nível.
+* Data Structures & Algorithms
+* Memory Management
+* Computer Architecture fundamentals
+* Backend-oriented problem solving with Python and SQL
+* Git/GitHub workflow and collaborative development
 
-Lógica de E-commerce: Explorando a interseção entre Ciência da Computação e marketplaces digitais — com foco em sistemas de inventário, integridade de transações e arquitetura escalável.
+I value clarity, logical thinking, and systems that are designed with intentionality rather than unnecessary complexity.
 
-Comunicação: Refinando ativamente meu inglês técnico para colaborar com documentações globais e comunidades de desenvolvedores.
+## Technical Focus
 
-🛠 Toolkit Técnico
+* Python
+* SQL & relational databases
+* Backend logic
+* Computational thinking
+* Systems-oriented problem solving
 
-Linguagens: Python (Flask/Django), SQL (PostgreSQL, SQLite), C (para fundamentos de CS).
+## Current Goal
 
-Ciência da Computação: Estruturas de Dados, Algoritmos, Alocação de Memória e Otimização de Recursos.
-
-Sistemas: Arquitetura de Computadores, Lógica Digital e conceitos básicos de Sistemas Operacionais.
-
-Ferramentas e Workflow: Git/GitHub para controle de versão e desenvolvimento colaborativo.
-
-📫 Conecte-se Comigo
-
-LinkedIn: [linkedin.com/in/tatiana-alves-cattaneo](https://www.linkedin.com/in/tatiana-alves-cattaneo-66258b19b)
-
-Email: eutatie@gmail.com
+Building a strong Computer Science foundation to develop reliable and well-structured software systems.
