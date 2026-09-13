@@ -1,29 +1,25 @@
-# Tatiana Alves Cattaneo
+# Olá, eu sou a Tatiana 👋
 
-Software developer focused on Computer Science fundamentals, backend logic, and commerce systems.
+Desenvolvedora focada na criação de aplicações **cross-platform (Mobile e Desktop)**, **jogos virtuais** e soluções orientadas a **dados e Business Intelligence**.
 
-I’m particularly interested in how software behavior emerges from low-level computational constraints, memory organization, and logical system design. My current studies are centered around data structures, algorithms, and the architectural decisions that shape efficient software systems.
+---
 
-My technical interests are strongly connected to digital commerce infrastructure — especially inventory consistency, transaction integrity, backend workflows, and scalable marketplace logic. This interest is also influenced by practical experience within e-commerce environments, which deepened my curiosity about how commercial systems operate behind the interface.
+### 🛠️ Áreas de Atuação
 
-Currently studying:
+- 🎮 **Game Development:** Concepção de mecânicas, lógica e desenvolvimento de jogos.
+- 📱 **Cross-Platform Dev:** Criação de softwares e aplicações para Mobile e Desktop.
+- 📊 **Data Science & BI:** Análise de dados, Business Intelligence e métricas para tomada de decisão.
 
-* Data Structures & Algorithms
-* Memory Management
-* Computer Architecture fundamentals
-* Backend-oriented problem solving with Python and SQL
-* Git/GitHub workflow and collaborative development
+---
 
-I value clarity, logical thinking, and systems that are designed with intentionality rather than unnecessary complexity.
+### 💻 Tech Stack & Ferramentas
 
-## Technical Focus
+- **Linguagens:** Python, SQL, C#
+- **Game Dev:** Unity / Godot 
+- **Data & BI:** Power BI, Pandas, SQL Server
+- **Ferramentas:** Git, GitHub, VS Code
 
-* Python
-* SQL & relational databases
-* Backend logic
-* Computational thinking
-* Systems-oriented problem solving
+---
 
-## Current Goal
-
-Building a strong Computer Science foundation to develop reliable and well-structured software systems.
+📫 **Como me encontrar:** 
+[LinkedIn](link-do-seu-linkedin) | [Portfólio](link-do-seu-portfolio)
