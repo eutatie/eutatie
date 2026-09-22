@@ -1,9 +1,7 @@
-# Hello, World! My name is Tatiana Marin.
+# Hello, World! My name is Tatiana A. SAAD
 
----
-
-**Programming and Business Intelligence**
+Working on Llama : large language model
 
 
 📫 **How to find me:** 
-[LinkedIn](https://www.linkedin.com/in/tatiana-marin-56bb68429/) | [Email](eutatie@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/tatiana-a-saad-56bb68429/) | [Email](eutatie@gmail.com) 
