@@ -1,28 +1,28 @@
 # Olá, eu sou a Tatiana A. Saad! 👋
 
-Sou uma profissional de tecnologia baseada em **São Paulo, Brasil**, focada em **Machine Learning** e **Engenharia de Software**. Atualmente, estou em busca de oportunidades remotas como **Machine Learning Specialist** ou **Engenheira Júnior**, onde posso aplicar meus conhecimentos para resolver problemas complexos e gerar valor através de dados.
+Sou uma profissional de tecnologia baseada em **São Paulo, Brasil**, focada em **Cloud Security**. Atualmente, estou em busca de oportunidades remotas como **Suport Specialist** ou **System Analyst**, onde posso aplicar meus conhecimentos para resolver problemas complexos e gerar valor através dos da segurança dos dados.
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente estou em busca de novas oportunidades como **Machine Learning Specialist** ou **Engenheira Júnior**.
-- 🌱 Meus focos de estudo e trabalho incluem: `Python`, `Scikit-learn`, `SQL` e `AWS`.
+- 🔭 Atualmente estou em busca de novas oportunidades como **Support Specialist** ou **System Analyst**.
+- 🌱 Meus focos de estudo e trabalho incluem: `Cloud`, `Networking` e `LLM`.
 - 📍 Localização: São Paulo - SP
-- 💬 **Pergunte-me sobre:** O papel da Inteligência Artificial na resolução de problemas humanos reais, a diferença entre ensinar uma máquina e deixá-la aprender, os dilemas éticos por trás dos dados e por que a curiosidade continua sendo minha ferramenta favorita de trabalho.
+- 💬 **Pergunte-me sobre:** O papel da Inteligência Artificial na resolução de problemas de infraestrutura, a diferença entre ensinar uma máquina e deixá-la aprender, os dilemas éticos por trás dos dados e por que a curiosidade continua sendo minha ferramenta favorita de trabalho.
 
 ---
 
 ### 🛠️ Minhas Habilidades Técnicas
 
 **Linguagens e Ferramentas:**
-`Python` `R` `SQL` `Git` `Docker`
+`Linux` `Python` `SQL` `Git` `Docker`
 
 **Machine Learning & Data Science:**
 `Pandas` `NumPy` `Scikit-Learn` `TensorFlow` `Power BI`
 
 **Cloud & Desenvolvimento:**
-`AWS` 
+`AWS, Azure` 
 
 ---
 
