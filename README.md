@@ -1,28 +1,28 @@
-# Olá, eu sou a Tatiana A. Saad! 👋
+# Olá, eu sou a Tatiana C.! 👋
 
-Sou uma profissional de tecnologia baseada em **São Paulo, Brasil**, focada em **Cloud Security**. Atualmente, estou em busca de oportunidades remotas como **Suport Specialist** ou **System Analyst**, onde posso aplicar meus conhecimentos para resolver problemas complexos e gerar valor através dos da segurança dos dados.
+Sou uma profissional de tecnologia baseada em **São Paulo, Brasil**, focada em **Cloud Security**. Atualmente, estou em busca de oportunidades remotas como **Suport Specialist** ou **System Analyst**, onde posso aplicar meus conhecimentos para resolver problemas complexos e gerar valor através da segurança dos sistemas.
 
 ---
 
 ### 🚀 Sobre mim
 
 - 🔭 Atualmente estou em busca de novas oportunidades como **Support Specialist** ou **System Analyst**.
-- 🌱 Meus focos de estudo e trabalho incluem: `Cloud`, `Networking` e `LLM`.
+- 🌱 Meus focos de estudo e trabalho incluem: `Análise de Dados`, `Cibersegurança` e `Ciência da Computação`.
 - 📍 Localização: São Paulo - SP
-- 💬 **Pergunte-me sobre:** O papel da Inteligência Artificial na resolução de problemas de infraestrutura, a diferença entre ensinar uma máquina e deixá-la aprender, os dilemas éticos por trás dos dados e por que a curiosidade continua sendo minha ferramenta favorita de trabalho.
+- 💬 **Pergunte-me sobre:** Cloud Computing | Networking | Segurança da Informação
 
 ---
 
 ### 🛠️ Minhas Habilidades Técnicas
 
 **Linguagens e Ferramentas:**
-`Linux` `Python` `SQL` `Git` `Docker`
+`Linux` `Python` `SQL` 
 
 **Machine Learning & Data Science:**
 `Pandas` `NumPy` `Scikit-Learn` `TensorFlow` `Power BI`
 
 **Cloud & Desenvolvimento:**
-`AWS, Azure` 
+`AWS` 
 
 ---
 
@@ -37,9 +37,9 @@ Sinta-se à vontade para explorá-las!
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** [Tatiana A. Saad](https://www.linkedin.com/in/tatiana-a-saad/)
+- **LinkedIn:** [Tatiana C.](https://www.linkedin.com/in/tatiana-c-56bb68429/))
 - **E-mail:** [eutatie@gmail.com]
-- **Portfólio:** [https://tatianasaad.github.io/]
+- **Portfólio:** [https://tatianadoc.github.io/]
 
 ---
 
