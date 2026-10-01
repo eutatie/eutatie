@@ -1,28 +1,22 @@
 # Olá, eu sou a Tatiana C.! 👋
 
-Sou uma profissional de tecnologia baseada em **São Paulo, Brasil**, focada em **Cloud Security**. Atualmente, estou em busca de oportunidades remotas como **Suport Specialist** ou **System Analyst**, onde posso aplicar meus conhecimentos para resolver problemas complexos e gerar valor através da segurança dos sistemas.
+Sou uma profissional de tecnologia baseada em **São Paulo, Brasil**, focada em **Análise de Dados**. Atualmente, estou em busca de oportunidades remotas como **Suport Specialist** ou **Data Analyst**, onde posso aplicar meus conhecimentos para resolver problemas complexos e gerar valor através da segurança dos sistemas.
 
 ---
 
 ### 🚀 Sobre mim
 
 - 🔭 Atualmente estou em busca de novas oportunidades como **Support Specialist** ou **System Analyst**.
-- 🌱 Meus focos de estudo e trabalho incluem: `Análise de Dados`, `Cibersegurança` e `Ciência da Computação`.
+- 🌱 Meus focos de estudo e trabalho incluem: `Análise de Dados`, `Engenharia de Dados` e `Ciência da Computação`.
 - 📍 Localização: São Paulo - SP
-- 💬 **Pergunte-me sobre:** Cloud Computing | Networking | Segurança da Informação
+- 💬 **Pergunte-me sobre:** Multi-cloud | Networking | Ciência de Dados
 
 ---
 
 ### 🛠️ Minhas Habilidades Técnicas
 
-**Linguagens e Ferramentas:**
-`Linux` `Python` `SQL` 
-
-**Machine Learning & Data Science:**
-`Pandas` `NumPy` `Scikit-Learn` `TensorFlow` `Power BI`
-
-**Cloud & Desenvolvimento:**
-`AWS` 
+**Aprendizado:**
+`Linux` `Python` `C++` `Pandas` `NumPy` `MySQL`
 
 ---
 
@@ -39,7 +33,6 @@ Sinta-se à vontade para explorá-las!
 
 - **LinkedIn:** [Tatiana C.](https://www.linkedin.com/in/tatiana-c-56bb68429/))
 - **E-mail:** [eutatie@gmail.com]
-- **Portfólio:** [https://tatianadoc.github.io/]
 
 ---
 
