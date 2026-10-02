@@ -1,4 +1,4 @@
-# Olá, eu sou a Tatiana C.! 👋
+# Olá, eu sou a Tatiana! 👋
 
 Sou uma profissional de tecnologia baseada em **São Paulo, Brasil**, focada em **Análise de Dados**. Atualmente, estou em busca de oportunidades remotas como **Suport Specialist** ou **Data Analyst**, onde posso aplicar meus conhecimentos para resolver problemas complexos e gerar valor através da segurança dos sistemas.
 
@@ -7,9 +7,9 @@ Sou uma profissional de tecnologia baseada em **São Paulo, Brasil**, focada em 
 ### 🚀 Sobre mim
 
 - 🔭 Atualmente estou em busca de novas oportunidades como **Support Specialist** ou **System Analyst**.
-- 🌱 Meus focos de estudo e trabalho incluem: `Análise de Dados`, `Engenharia de Dados` e `Ciência da Computação`.
+- 🌱 Meus focos de estudo e trabalho incluem: `Análise de Dados`, `Engenharia de Dados` e `Ciência de Dados`.
 - 📍 Localização: São Paulo - SP
-- 💬 **Pergunte-me sobre:** Multi-cloud | Networking | Ciência de Dados
+- 💬 **Pergunte-me sobre:** Como solucionar problemas com base em dados. 
 
 ---
 
