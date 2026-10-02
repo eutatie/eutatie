@@ -7,9 +7,9 @@ Sou uma profissional de tecnologia baseada em **São Paulo, Brasil**, focada em 
 ### 🚀 Sobre mim
 
 - 🔭 Atualmente estou em busca de novas oportunidades como **Support Specialist** ou **System Analyst**.
-- 🌱 Meus focos de estudo e trabalho incluem: `Análise de Dados`, `Engenharia de Dados` e `Ciência de Dados`.
+- 🌱 Meus focos de estudo e trabalho incluem: `Análise de Dados`.
 - 📍 Localização: São Paulo - SP
-- 💬 **Pergunte-me sobre:** Como solucionar problemas com base em dados. 
+- 💬 **Pergunte-me sobre:** Como solucionar problemas e gerar valor com base em dados. 
 
 ---
 
