@@ -1,6 +1,14 @@
 # Olá, eu sou a Tatiana! 👋
 
-Sou uma profissional de tecnologia baseada em **São Paulo, Brasil**, focada em **Engenharia de Dados**. Atualmente, estou em busca de oportunidades remotas como **Suport Specialist** ou **Data Analyst**, onde posso aplicar meus conhecimentos para resolver problemas complexos e gerar valor através da segurança dos sistemas.
+Em transição para Engenharia de Dados com foco na área de Saúde e Healthtechs. Experiência de mais de 4 anos em operações técnicas, suporte e análise investigativa em ambientes de alto volume.
+
+Atualmente focada na construção de pipelines de dados, automação de scripts com Python, modelagem dimensional em PostgreSQL/MySQL e consultas em SQL, com especial atenção à integridade e governança de dados sensíveis (LGPD).
+
+Stack de Estudos & Ferramentas:
+
+• Linguagens: Python, SQL, Bash / Linux
+• Bancos de Dados: PostgreSQL, MySQL, Modelagem Dimensional (Star Schema)
+• Controle de Versão & Ferramentas: Git, GitHub, VS Code
 
 ---
 
