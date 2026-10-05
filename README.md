@@ -24,7 +24,7 @@ Stack de Estudos & Ferramentas:
 ### 🛠️ Minhas Habilidades Técnicas
 
 **Aprendizado:**
-`SQL` `Python` `PostgreeSQL Pandas` `NumPy`
+`SQL` `Python` `PostgreeSQL` `Pandas` `NumPy`
 
 ---
 
