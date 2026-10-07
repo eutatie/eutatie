@@ -1,13 +1,13 @@
 # Olá, eu sou a Tatiana! 👋
 
-Em transição para Engenharia de Dados com foco na área de Saúde e Healthtechs. Experiência de mais de 4 anos em operações técnicas, suporte e análise investigativa em ambientes de alto volume.
+Graduando em Ciência da Computação e com experiência de mais de 4 anos em operações técnicas, suporte e análise investigativa.
 
 Atualmente focada na construção de pipelines de dados, automação de scripts com Python, modelagem dimensional em PostgreSQL/MySQL e consultas em SQL, com especial atenção à integridade e governança de dados sensíveis (LGPD).
 
 Stack de Estudos & Ferramentas:
 
-• Linguagens: Python, SQL, Bash / Linux
-• Bancos de Dados: PostgreSQL, MySQL, Modelagem Dimensional (Star Schema)
+• Linguagens: Python, SQL, Bash 
+• Bancos de Dados: PostgreSQL, Modelagem Dimensional (Star Schema)
 • Controle de Versão & Ferramentas: Git, GitHub, VS Code
 
 ---
@@ -15,7 +15,7 @@ Stack de Estudos & Ferramentas:
 ### 🚀 Sobre mim
 
 - 🔭 Atualmente estou em busca de novas oportunidades como **Support Specialist** ou **System Analyst**.
-- 🌱 Meus focos de estudo e trabalho incluem: `Engenharia de Dados`.
+- 🌱 Meus focos de estudo e trabalho incluem: `Engenharia de Dados`e `Cibersegurança`. 
 - 📍 Localização: São Paulo - SP
 - 💬 **Pergunte-me sobre:** Como solucionar problemas e gerar valor com base em dados. 
 
@@ -24,7 +24,7 @@ Stack de Estudos & Ferramentas:
 ### 🛠️ Minhas Habilidades Técnicas
 
 **Aprendizado:**
-`SQL` `Python` `PostgreSQL` `Pandas` `NumPy`
+`SQL` `Python` `PostgreSQL` `Pandas` `NumPy` `AWS`
 
 ---
 
@@ -39,7 +39,7 @@ Sinta-se à vontade para explorá-las!
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** [Tatiana C.](https://www.linkedin.com/in/tatiana-c-56bb68429/))
+- **LinkedIn:** [Tatiana C.](https://www.linkedin.com/in/tatiana-cattaneo-56bb68429)
 - **E-mail:** [eutatie@gmail.com]
 
 ---
