@@ -1,28 +1,20 @@
 # Olá, eu sou a Tatiana! 👋
 
-Bacharelanda em Ciência da Computação, com bagagem de mais de 4 anos em operações técnicas, suporte e análise investigativa. Com foco em  Segurança: Aplicação prática de conceitos de cloud computing (AWS) e segurança de dados/governança (LGPD).
+Bacharelanda em Ciência da Computação, com bagagem de mais de 4 anos em operações técnicas, suporte e análise investigativa. Com foco em construir e manter um software seguro, escalável e dentro do orçamento. 
 
 Stack de Estudos & Ferramentas:
 
-• Linguagens: Python, SQL, Bash 
-• Bancos de Dados: PostgreSQL, Modelagem Dimensional (Star Schema)
-• Controle de Versão & Ferramentas: Git, GitHub, VS Code
+• Linguagens: `Python` `SQL` `JavaScript`
+• Bancos de Dados: `PostgreSQL` `MySQL`
+• Controle de Versão & Ferramentas: `GitHub` `VS Code`
 
 ---
 
 ### 🚀 Sobre mim
 
 - 🔭 Atualmente estou em busca de novas oportunidades como **Analista de Sistemas**
-- 🌱 Meus focos de estudo e trabalho incluem: `Ciência da Computação` e `Cibersegurança`.
 - 📍 Localização: São Paulo - SP
 - 💬 **Pergunte-me sobre:** Fundamentos de Computação: Estrutura de dados, lógica, algoritmos e arquitetura de sistemas.
-
----
-
-### 🛠️ Minhas Habilidades Técnicas
-
-**Aprendizado:**
-`SQL` `Python` `PostgreSQL` `Pandas` `NumPy` `AWS`
 
 ---
 
@@ -39,7 +31,3 @@ Sinta-se à vontade para explorá-las!
 
 - **LinkedIn:** [Tatiana C.](https://www.linkedin.com/in/tatiana-cattaneo-56bb68429)
 - **E-mail:** [eutatie@gmail.com]
-
----
-
-⭐️ *Sempre aberta a colaborações, networking e novas oportunidades na área de tecnologia e dados!*
