@@ -1,12 +1,14 @@
 # Olá, eu sou a Tatiana! 👋
 
-Bacharelanda em Ciência da Computação, com bagagem de mais de 4 anos em operações técnicas, suporte e análise investigativa. Com foco em construir e manter um software seguro, escalável e dentro do orçamento. 
+Bacharelanda em Ciência da Computação, com bagagem de mais de 4 anos em operações técnicas, suporte e análise investigativa. Com conhecimentos empíricos em software e hardware.
 
 Stack de Estudos & Ferramentas:
 
-• Linguagens: `Python` `SQL` `JavaScript`
-• Bancos de Dados: `PostgreSQL` `MySQL`
-• Controle de Versão & Ferramentas: `GitHub` `VS Code`
+• Linguagem: `Python` `SQL`
+
+• Cloud & DevOps: `AWS` `Git/GitHub`
+
+• Conceitos: `Segurança de Dados` `Segurança em Nuvem`
 
 ---
 
